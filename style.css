@@ -50,3 +50,40 @@
     align-items:first baseline;
     justify-content: center;
 }
+.form-background {
+    background-color: black;
+    padding: 30px;
+}
+.form-white {
+    background-color: white;
+    padding: 30px;
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+.form-input {
+    
+    width: 100%;
+}
+.form-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.w-50 {
+    width: 50%;
+    float:left;
+    Box-sizing: border-box;
+    padding: 10px; 
+
+}
+.w-100{
+    Box-sizing: border-box;
+    padding: 10px; 
+}
+.send-button {
+    padding: 10px;
+    display:block;
+    margin-left: auto;
+    background-color: yellowgreen;
+}
