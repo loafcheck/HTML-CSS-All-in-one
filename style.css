@@ -87,3 +87,12 @@
     margin-left: auto;
     background-color: yellowgreen;
 }
+
+.td {
+    border: 1px solid black;
+    vertical-align: bottom;
+}
+
+table {
+    border-collapse: collapse;
+}
